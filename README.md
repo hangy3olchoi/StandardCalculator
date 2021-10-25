@@ -1,1 +1,1 @@
-# standardCalculator
+[Python] 전자 계산기 응용프로그램.
